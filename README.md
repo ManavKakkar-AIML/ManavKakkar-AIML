@@ -1,13 +1,5 @@
 <h1 align="center"> 👋 Hi there, I'm Manav Kakkar – AI/ML Engineer 🚀 </h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer-%230A66C2?style=flat&logo=ai" />
-  <img src="https://img.shields.io/badge/GenAI-%23FF6F00?style=flat&logo=openai" />
-  <img src="https://img.shields.io/badge/MLOps-%232ECC71?style=flat&logo=kubernetes" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-%231A5276?style=flat&logo=pytorch" />
-</p>
-
----
 
 ### **🔹 About Me**
 💡 Passionate about **AI, MLOps, and Deep Learning**  
@@ -30,7 +22,7 @@
 
 ### **⚙️ Technical Skills**
 📊 **AI/ML:** TensorFlow | PyTorch | OpenAI APIs | Hugging Face | Scikit-Learn | NumPy | Pandas  
-⚙️ **MLOps & Deployment:**CI/CD (GitHub Actions, Jenkins) | AWS SageMaker | Google Cloud AI  
+⚙️ **MLOps & Deployment:** CI/CD (GitHub Actions, Jenkins) | AWS SageMaker | Google Cloud AI  
 🧠 **AI Research & LLMs:** GPT | LLaMA | LangChain | Stable Diffusion | Reinforcement Learning | Graph Neural Networks  
 📂 **Databases:** PostgreSQL | MongoDB | Redis | FAISS | Pinecone  
 
@@ -53,4 +45,3 @@
 ### **⚡ Fun Fact**
 🧠 AI is transforming industries, and I love **building AI-powered solutions that make an impact!**  
 
----
