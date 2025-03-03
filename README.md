@@ -13,7 +13,7 @@
 💡 Passionate about **AI, MLOps, and Deep Learning**  
 🎯 Building AI-driven **LLMs, AI Chatbots, and Automation Systems**  
 📊 Skilled in **TensorFlow | PyTorch | OpenAI APIs | Hugging Face | Scikit-Learn | NumPy | Pandas**  
-⚙️ Experienced in **Docker | Kubernetes | AWS SageMaker | CI/CD Pipelines | Google Cloud AI**  
+⚙️ Experienced in **AWS SageMaker | CI/CD Pipelines | Google Cloud AI**  
 🛠️ Currently working on **AI Resume Screener & AI SaaS Development**  
 
 ---
@@ -30,7 +30,7 @@
 
 ### **⚙️ Technical Skills**
 📊 **AI/ML:** TensorFlow | PyTorch | OpenAI APIs | Hugging Face | Scikit-Learn | NumPy | Pandas  
-⚙️ **MLOps & Deployment:** Docker | Kubernetes | CI/CD (GitHub Actions, Jenkins) | AWS SageMaker | Google Cloud AI  
+⚙️ **MLOps & Deployment:**CI/CD (GitHub Actions, Jenkins) | AWS SageMaker | Google Cloud AI  
 🧠 **AI Research & LLMs:** GPT | LLaMA | LangChain | Stable Diffusion | Reinforcement Learning | Graph Neural Networks  
 📂 **Databases:** PostgreSQL | MongoDB | Redis | FAISS | Pinecone  
 
@@ -54,10 +54,3 @@
 🧠 AI is transforming industries, and I love **building AI-powered solutions that make an impact!**  
 
 ---
-
-### **📌 Next Steps**
-✔ Upload **your first AI project** soon!  
-✔ Regularly **commit code to GitHub** to keep your profile active.  
-✔ **Engage with AI communities** (star AI repos, contribute to open-source).  
-
-🚀 **Excited to collaborate on AI projects!** Feel free to reach out! 🎯  
