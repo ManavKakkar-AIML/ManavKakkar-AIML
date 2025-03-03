@@ -1,17 +1,16 @@
-<h1 align="center">👋 Hi there, I'm Manav Kakkar – AI/ML Engineer 🚀</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer-%7C%20GenAI%20%7C%20MLOps-%230A66C2?style=flat&logo=ai" />
-  <img src="https://img.shields.io/badge/TensorFlow%20-%20PyTorch-%20AWS%20AI-%23FF6F00?style=flat&logo=tensorflow" />
-  <img src="https://img.shields.io/badge/OpenAI%20-%20Kubernetes-%20Cloud%20AI-%232ECC71?style=flat&logo=openai" />
-</p>
+<h1 align="center"> 👋 Hi there, I'm Manav Kakkar – AI/ML Engineer 🚀 </h1>
+
+![AI Engineer](https://img.shields.io/badge/AI%20Engineer-%230A66C2?style=flat&logo=ai)  
+![GenAI](https://img.shields.io/badge/GenAI-%23FF6F00?style=flat&logo=openai)  
+![MLOps](https://img.shields.io/badge/MLOps-%232ECC71?style=flat&logo=kubernetes)
 
 ---
 
 ### **🔹 About Me**
 💡 Passionate about **AI, MLOps, and Deep Learning**  
 🎯 Building AI-driven **LLMs, AI Chatbots, and Automation Systems**  
-📊 Skilled in **TensorFlow | PyTorch | OpenAI APIs | AWS AI | Kubernetes**  
+📊 Skilled in **TensorFlow | PyTorch | OpenAI APIs | Hugging Face | Scikit-Learn | NumPy | Pandas**
 🛠️ Currently working on **AI Resume Screener & AI SaaS Development**  
 
 ---
